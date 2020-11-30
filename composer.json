@@ -1,0 +1,19 @@
+{
+    "name": "devorto/universally-unique-identifier",
+    "description": "A basic class for UUID usage.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devorto",
+            "email": "info@devorto.com",
+            "role": "Owner",
+            "homepage": "https://www.devorto.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Devorto\\UniversallyUniqueIdentifier\\": "src"
+        }
+    }
+}
